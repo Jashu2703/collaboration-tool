@@ -1,9 +1,16 @@
 #COMPANY: CODTECH IT SOLUTIONS 
+
 #NAME: JASHWANTH VALASA 
+
 #INTERN ID: CT08WR03 
+
 #DOMAIN: SOFTWARE DEVELOPMENT 
+
 #DURATION: 8 WEEEKS 
+
 #MENTOR: NEELA SANTOSH
+
+
 # collaboration-tool
 Real-Time Collaborative Tool for Coding/Note-Taking
 This project is a real-time collaborative platform that allows multiple users to work on coding or note-taking simultaneously, similar to tools like Google Docs. Built using Flask and Flask-SocketIO, the tool uses WebSockets to provide real-time updates between users. When one user makes an edit, all other connected users see the change instantly without needing to refresh the page. The editor is designed with a contenteditable element, making it simple and responsive for users to collaborate on shared content in real time.
